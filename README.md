@@ -2,7 +2,7 @@
 To complete this task i  install python and opencv:<br>
 First  i downloaded python <br>
 Second i downloaded opencv using this command on Windows PowerShell: pip install opencv-python
-<h>
+<h/>
   
 
 
